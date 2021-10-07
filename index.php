@@ -12,7 +12,7 @@
     </head>
     <body>
         <div id="resumecontainer">
-            <img src="1.jpg" alt="Picture" style=width:200px;height:200px;float:right;margin-top:-10px;margin-bottom:20px><br>
+            <img src="picture/1.jpg" alt="Picture" style=width:200px;height:200px;float:right;margin-top:-10px;margin-bottom:20px><br>
 
                 <p>Joviname S. Maloloy-on</p>
                 <p>09273505691</p>
